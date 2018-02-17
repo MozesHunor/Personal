@@ -1,0 +1,35 @@
+.button{
+	background-color: black;
+	color: yellow;
+	width: 300px;
+	height: 300px;
+	font-size: 30px;
+	
+
+}
+.main{
+	position: absolute;
+    width: 300px;
+    height: 200px;
+    top: 20%;
+    left: 40%;
+}
+.button:hover {
+	background-color: darkblue;
+	font-size: 40px;
+
+}
+.body{
+	background-position: left-top;
+	background-image: url("https://wi-images.condecdn.net/image/B1NZW376pxM/crop/1620/f/space_11.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#array{
+	background: none;
+	border: none;
+	color: yellow;
+}
+#h1{
+	color:yellow;
+}
