@@ -1,0 +1,90 @@
+.body1 {
+	background-position: left-top;
+	background-image: url("https://kainat21.files.wordpress.com/2011/06/the_matrix_bg_2.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.body2 {
+	background-position: left-top;
+	background-image: url("http://orig04.deviantart.net/7a37/f/2012/041/e/1/matrix_wallpaper_by_quizz25s-d4pbdph.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.paragraph {
+	font-weight: bold;
+	color: white;
+	font-size: 20px;
+	border: 5px;
+	margin: 5px;
+}
+.text1 {
+	color: red;
+	background-color: #3B3C36;
+}
+.text2 {
+	color: green;
+	background-color: #3B3C36;
+}
+.text3 {
+	color: green;
+	background-color: #3B3C36;
+}
+.text4 {
+	color: red;
+	background-color: #3B3C36;
+}
+.button {
+	color: yellow;
+	background: black;
+}
+.button1 {
+	color: yellow;
+	background:black;
+}
+.headline {
+	font-weight: bold, italic;
+	color: #D0FF14;
+	font-size: 40px;
+}
+.body0 {
+	background-image: url("http://coe.ba/wp-content/uploads/2016/03/bitcoin-binary-768x483.jpg");
+	background-size: cover;
+	background-position: left-top;
+	background-repeat: no-repeat;
+}
+.home {
+	font-size:20px;
+	color:#BFFF00;
+}
+.link {
+	font-size:25px;
+	color: #FF007F;
+}
+.par {
+	font-weight: bold;
+	font-size: 40px;
+	color: #D0FF14;
+	background-color: black;
+}
+a:hover {
+	background-color: pink;
+}
+.thx {
+	color: #BFFF00;
+	font-size: 20px;
+	text-decoration: underline;
+}
+.thanks {
+	background-color: black;
+	color: #00B9FB;
+	font-weight: bold;
+}
+.submit {
+	background-color: black;
+	color: #00B9FB;
+}
+.review {
+	color: #00B9FB;
+	background-color:black;
+	font-weight: italic, bold;
+}
